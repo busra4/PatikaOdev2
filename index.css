@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  margin-top: 5%;
+  justify-content: center;
+}
+
+.footer {
+  text-align: center;
+  display: table;
+  width: 100%; 
+}
+
+.first {
+  border: 5px solid rgb(255, 255, 255);
+  background-color: rgb(248, 213, 88);
+  width: 31%;
+  height: 100px;
+  float: left;
+  text-align: center;
+  margin: 0.1% 0.1% 0.1% 0;
+  font-size: 15px;
+  margin-left: -1px;
+  padding-left: 24px;
+  display: table-cell; 
+}
